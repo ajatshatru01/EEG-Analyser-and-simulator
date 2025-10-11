@@ -26,6 +26,10 @@ Fully Connected Layer
 ↓  
 Softmax Output
 
+## Model evaluation
+
+![Surgery model validation](https://github.com/ajatshatru01/EEG-Analyser-and-simulator/blob/test/SURGERY%20PREDICTION%20MODEL/surgery_evaluation.jpeg)
+
 ## Dataset
 
 **HUP / IEEG Dataset** – Human Intracranial EEG Data during Surgery Tasks.  

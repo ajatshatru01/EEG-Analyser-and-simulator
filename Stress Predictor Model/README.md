@@ -29,7 +29,7 @@ Softmax Output
 
 ## Evaluation
 
-![Stress model evaluation]()
+![Stress model evaluation](https://github.com/ajatshatru01/EEG-Analyser-and-simulator/blob/test/Stress%20Predictor%20Model/STRESS.jpeg)
 ## Dataset
 
 **SAM40 EEG Dataset** – EEG recordings for stress recognition.  

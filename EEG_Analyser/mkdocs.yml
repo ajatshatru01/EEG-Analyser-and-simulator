@@ -1,0 +1,28 @@
+site_name: EEG Analyser Documentation
+repo_url: https://github.com/<yourusername>/eeg-analyser
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.expand
+    - search.highlight
+    - toc.integrate
+  palette:
+    - scheme: default
+      primary: teal
+      accent: cyan
+  icon:
+    logo: material/brain
+    repo: fontawesome/brands/github
+
+nav:
+  - Index: index.md
+  - Project Overview: project_overview.md
+  - Mini Project: mini_project.md
+  - Dataset Description: dataset_description.md
+  - Preprocessing: preprocessing.md
+  - Feature Extraction: feature_extraction.md
+  - Model Architecture: model_architecture.md
+  - Challenges Faced: challenges_faced.md
+  - Future Scope: future_scope.md
+  - Conclusion: conclusion.md

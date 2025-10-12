@@ -32,3 +32,5 @@ Each implementation includes:
 - Personalized brain twin simulation
 - Dream visualization via generative models (VAE/GANs)
 
+## Documentation
+Documentation link : [Documentation](https://github.com/ajatshatru01/EEG-Analyser-and-simulator/tree/main/EEG_Analyser)

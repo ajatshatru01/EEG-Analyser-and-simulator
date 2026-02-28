@@ -2,11 +2,11 @@
 AI-driven simulation and prediction of brain dynamics using EEG data
 
 ## Overview
-This project aims to develop an AI-powered system that constructs a personalized Digital Twin of the Brain using EEG (Electroencephalogram) data.
+This project explores the use of deep learning and signal processing techniques to model and analyze EEG (Electroencephalogram) signals for neurological and cognitive pattern detection.
 
-The system leverages deep learning and signal processing to analyze, predict, and simulate neurological patterns — enabling early detection of epilepsy, cognitive stress, depression, and other brain-related conditions. The system also aims to classify emotions in awake and dream phase. Other implications include the prediction of failure and success of surgery and drug identification and simulation of its effects on EEG data. 
+The system implements transformer- and LSTM-based architectures to identify seizure-related patterns, stress states, and emotional signals from EEG data. It also investigates generative modeling approaches for interpreting REM-phase activity.
 
-In addition, the project explores neural generative modeling to interpret REM-phase brain activity into abstract visual representations, pushing the boundaries of dream analysis and subconscious understanding.
+Rather than claiming clinical deployment, the focus is on building a structured research prototype for predictive modeling and simulation of brain dynamics.
 
 ## Objectives
 - Develop a personalized digital twin of the brain using EEG data.
@@ -27,6 +27,9 @@ Each implementation includes:
 - Feature extraction
 - Deep learning model training and evaluation
 - Visualization and interpretation of brain activity
+
+## Demo
+[See our demo video and PPT here](https://drive.google.com/drive/folders/1XIY5Yc-HgqWG79rwph679d8ac6nJ-sgy?usp=sharing)
 
 ## Future work
 - Personalized brain twin simulation
